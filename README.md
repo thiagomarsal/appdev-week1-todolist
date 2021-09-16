@@ -1,5 +1,8 @@
 <!--- STARTEXCLUDE --->
 # TODO + Astra + Cassandra 📒
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1ccba6cc-12f2-4393-880c-689d2daad61f/deploy-status)](https://app.netlify.com/sites/react-todo-list-thiagomarsal/deploys)
+
 *10 minutes, Beginner, [Start Building](https://github.com/DataStax-Examples/todo-astra-jamstack-netlify#prerequisites)*
 
 This is an example React To-Do application using a [DataStax Astra](https://dtsx.io/appdev-7-7) free tier database.
